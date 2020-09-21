@@ -1,6 +1,6 @@
 # VPN4China 翻墙软件VPN推荐指南(含2020优惠)
 
-最近更新：`2020年9月20日`
+最近更新：`2020年9月21日`
 
 >2020年在中国好用的VPN所剩无几。翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。
 
@@ -24,7 +24,7 @@
 >
 > - [StrongVPN](#1-strongvpn--性价比最佳)，这款我已经使用了1年多，性价比不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的用户可以下载StrongVPN精简版(下载链接在下文)，登录和连接更为顺畅**。目前有打折的优惠券可以使用，遗憾的是Strong官网域名在中国被墙（软件APP能正常使用），有梯子的同学可以用梯子访问，[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
-> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，在国内速度体验最好，也是我自己很喜欢的VPN产品。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。
+> - <a rel="nofollow noopener" href="https://www.linkev.com/?a_fid=pornhubapp" target="_blank">ExpressVPN</a>，在国内速度体验最好，也是我自己很喜欢的VPN产品。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。
 
 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
 
@@ -122,9 +122,7 @@ VPN翻墙软件怎么用?
 >最近国内网络管制升级，各种翻墙方法都出现不同程度连接不稳定，速度变慢等情况，国内论坛上VPS的ip被封的讨论也多了起来，但StrongVPN和NordVPN等工具仍然处于可用状态，详细信息可参见下方[VPN推荐指南](#适合在中国使用的翻墙软件vpn国内实测)。
 
 ## 买VPS自建翻墙服务器？
-最近2年很流行租用VPS服务器自建翻墙工具，很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但缺点就是现在IP太容易被墙了，尤其是<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
-
-[![Google搜索搬瓦工](https://www.safewebcn.com/img/bw-google-search.png)](#买vps自建翻墙服务器)
+最近2年很流行租用VPS服务器自建翻墙工具，很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但缺点就是现在IP太容易被墙了，尤其是口碑一直特别好的<a rel="nofollow noopener" href="https://www.vultr.com/?ref=7287530" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
 
 前几年这种翻墙方案性价比还不错，但是就2020年来说，似乎找到未被屏蔽的IP有点困难了，况且付费换一个IP需8美元！以现在防火墙对于翻墙（SS/SSR/VPN等）的流量识别算法，大部分用户不出2个月IP就会被封。
 
@@ -221,7 +219,7 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 ### 如何打开StrongVPN官网？
 
-有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但没梯子的同学注意，Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
+有梯子的同学直接可访问<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f6754a029a97" target="_blank">StrongVPN官网</a>，但没梯子的同学注意，Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
 改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
 
@@ -229,7 +227,7 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 点击获取StrongVPN优惠</a>。
+3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f6754a029a97" target="_blank"> 点击获取StrongVPN优惠</a>。
 
 完成之后，就可以正常访问官网和使用客户端了。购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
@@ -257,9 +255,9 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
-在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
+在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f6754a029a97" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
 
-**如果不能使用，查看是不是支付过程出现了问题**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
+**如果不能使用，查看是不是支付过程出现了问题**，需要<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f6754a029a97" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
 [![Strong-billing](https://www.safewebcn.com/img/strongvpn-billing-min.png)](#如何获取strongvpn)
 
@@ -366,11 +364,11 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 [翻墙的安全性](#翻墙软件与vpn的区别--翻墙的安全性问题)尤为重要，前面已经讲过，翻墙还在使用国产浏览器的朋友赶紧更换，因为国产浏览器可能会留有后门和保存用户的访问记录，具体可以查看<a rel="noopener" href="https://www.cepingtu.com/vpn-browser-for-china/" target="_blank">翻墙时使用的浏览器</a>。建议大家按我的方案，**使用<a rel="nofollow noopener" href="https://brave.com/vpn055" target="_blank">Brave浏览器</a>（官网在国内被墙）在连上VPN时使用**，这款浏览器完全防跟踪和保护隐私，免费且快速；**平时使用Chrome作为日常上网**，前提是Chrome是在Google官网下载的，第三方平台很多留有后门。另外，我是设置了Split Tunneling的，Brave浏览器走VPN流量，Chrome走本地流量。
 
 
-## 2.<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank"> ExpressVPN – 速度体验最佳</a>
+## 2.<a rel="nofollow noopener" href="https://www.linkev.com/?a_fid=pornhubapp" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
 >2020年9月使用，确认可用，速度体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快。
 
-[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.linkev.com/?a_fid=pornhubapp)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品。但因为价格相对较高，我放在第二位，**适合不差钱和要求较好使用体验的朋友**。
 
@@ -408,7 +406,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers.png)](https://www.fastvpncn.com/expressvpn)
+[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers.png)](https://www.linkev.com/?a_fid=pornhubapp)
 
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
@@ -459,7 +457,7 @@ ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外�
 
 套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
 
-[![ExpressVPN付款方式](https://www.safewebcn.com/img/express-vpn-payment.png "ExpressVPN付款方式截图")](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN付款方式](https://www.safewebcn.com/img/express-vpn-payment.png "ExpressVPN付款方式截图")](https://www.linkev.com/?a_fid=pornhubapp)
 
 ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
@@ -471,7 +469,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 >
 >**推荐用户**：对速度和稳定性有要求的用户、iPhone和Mac用户首选
 
-### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
+### <center><a rel="nofollow noopener" href="https://www.linkev.com/?a_fid=pornhubapp" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
 > 由于冒牌网站很多，官方已经不再使用镜像域名（只能更新客户端使用），目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。
 
@@ -533,11 +531,11 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址，进行手动配置，连接成功率和速度我感觉明显要高于APP直连。
 
 
-## 4.<a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank"> PandaVPN</a>
+## 4.<a rel="nofollow noopener" href="https://www.pandufm.xyz/r/18567255" target="_blank"> PandaVPN</a>
 
 >2020年8月测试，确认可用，体验中规中矩。
 
-[![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](http://linkv.org/panda/)
+[![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](https://www.pandufm.xyz/r/18567255)
 
 >这款我去年开始使用，虽然创办时间相对另外几个老牌服务商不算长，但是不管是连接成功率还是速度上来说，在我使用的这几个月还算OK。
 
@@ -611,7 +609,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
 
-## 6.<a rel="nofollow noopener" href="https://linkv.org/pure/" target="_blank"> PureVPN</a>
+## 6.<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=43998" target="_blank"> PureVPN</a>
 
 [![PureVPN](https://www.safewebcn.com/img/purevpn-logo.png)](#6-purevpn)
 
@@ -625,7 +623,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://linkv.org/pure/)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://billing.purevpn.com/aff.php?aff=43998)。
 
 完成之后，就可以正常访问官网和使用客户端了。
 
@@ -706,7 +704,9 @@ VyprVPN在中国怎么样？这款VPN目前在中国虽然也能勉强使用，�
 
 ### 其他翻墙姿势
 
-上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有基友要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>或者<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>的VPS，性价比较高，国人用的多，出现问题更好和客服沟通。日本机房最好避开，ip能用的寥寥无几，美国机房ip多，情况稍好一些。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年3月25提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过之后，V2ray也就宣告失效。
+上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有基友要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://www.vultr.com/?ref=7287530" target="_blank">Vultr</a>的VPS，性价比较高，国人用的多，出现问题更好和客服沟通。日本机房最好避开，ip能用的寥寥无几，美国机房ip多，情况稍好一些。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。北京理工大学在2019年3月25提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过之后，V2ray也就宣告失效。
+
+不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年3月25提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过之后，V2ray也就宣告失效。
 
 ## 关于VPN的一些问题
 
