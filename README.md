@@ -567,7 +567,7 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策，不过有小伙伴反映退款慢，要催客服。
 
-## 5.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
+## 5.<a rel="nofollow noopener" href="https://billing.ivacy.com/page/93244" target="_blank"> IVacy</a>
 
 [![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#6-ivacy)
 
@@ -583,7 +583,7 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，然后[获取IVacy官网优惠](https://linkv.org/ivacy)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后[获取IVacy官网优惠](https://billing.ivacy.com/page/93244)。
 
 完成之后，就可以正常访问官网和使用客户端了。
 
